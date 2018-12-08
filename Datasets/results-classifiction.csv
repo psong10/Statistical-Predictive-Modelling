@@ -1,9 +1,0 @@
-Name_of_model,Training_Score,Testing_Score,ROC_score
-NB,97,98,0.994
-LR,100,100,1
-KNN,86,83,0.52
-DT,100,100,1
-RF,100,99,0.98
-GBC,100,100,1
-SVM,100,83,1
-NN,82,81,0.817
